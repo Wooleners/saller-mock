@@ -1,2 +1,10 @@
 ## saller-mock
-saller mock server suite
+
+saller mock server suite base connect
+
+### Usage
+
+```bash
+$ npm install
+$ npm start
+```
